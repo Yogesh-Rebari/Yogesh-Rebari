@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Yogesh-Rebari
+- 👋 Hi, I’m Yogesh Rebari...
 
 <!---
 Yogesh-Rebari/Yogesh-Rebari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-student of bachelor of engineering in computer science. 
+I am an undergraduate student pursuing a degree in Computer Science Engineering with a strong foundation in programming, software development, and problem-solving. My academic journey has equipped me with skills in Java, Python, Machine Learning and Deep Learning as well as experience in Full stack development.
 
 
 ## 🌐 Socials:
