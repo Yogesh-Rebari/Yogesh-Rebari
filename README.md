@@ -19,9 +19,8 @@ I am an undergraduate student pursuing a degree in Computer Science Engineering 
 
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Yogesh-Rebari&label=Profile%20Views&color=10&pretty=false" alt="Profile Views"/>
-  </a>
+  <img src="https://hits.sh/github.com/Yogesh-Rebari.svg?style=flat-square&color=10" alt="Profile Views" />
 </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
