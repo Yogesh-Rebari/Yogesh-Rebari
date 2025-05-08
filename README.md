@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Yogesh Rebari...
 
-<!---
-Yogesh-Rebari/Yogesh-Rebari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # 💫 About Me:
 I am an undergraduate student pursuing a degree in Computer Science Engineering with a strong foundation in programming, software development, and problem-solving. My academic journey has equipped me with skills in Java, Python, Machine Learning and Deep Learning as well as experience in Full stack development.
 
@@ -22,11 +18,10 @@ I am an undergraduate student pursuing a degree in Computer Science Engineering 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![Profile Views](https://visitcount.itsvg.in/api?id=Yogesh-Rebari&label=Profile%20Views&color=10&pretty=false)](https://visitcount.itsvg.in)
-
-<!--[![](https://visitcount.itsvg.in/api?id=Yogesh-Rebari&icon=0&color=0)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Yogesh-Rebari&label=Profile%20Views&color=10&pretty=false" />
-</a>-->
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Yogesh-Rebari&label=Profile%20Views&color=10&pretty=false" alt="Profile Views"/>
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
