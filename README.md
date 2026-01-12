@@ -24,5 +24,4 @@ I am an undergraduate student pursuing a degree in Computer Science Engineering 
   <img src="https://hits.sh/github.com/Yogesh-Rebari.svg?style=flat-square&color=10" alt="Profile Views" />
 </p>
 
-https://github-readme-stats.vercel.app/api?username=Yogesh-Rebari&v=2
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
